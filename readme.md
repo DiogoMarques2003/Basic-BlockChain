@@ -22,7 +22,7 @@ By default port no. is 3001. So you should see server running at http://localhos
 - Adding Database Support
 ```
 
-## 📃 License
+### License
 
 This project uses the license [MIT][mit]. [LICENSE](https://github.com/DiogoMarques2003/Basic-BlockChain/blob/master/LICENSE)
 
