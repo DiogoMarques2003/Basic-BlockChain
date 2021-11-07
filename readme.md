@@ -21,3 +21,9 @@ By default port no. is 3001. So you should see server running at http://localhos
 - Implement wallet and transaction system
 - Adding Database Support
 ```
+
+## 📃 License
+
+This project uses the license [MIT][mit]. [LICENSE](https://github.com/DiogoMarques2003/Basic-BlockChain/blob/master/LICENSE)
+
+[mit]:https://opensource.org/licenses/MIT
